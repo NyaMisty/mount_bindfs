@@ -1,0 +1,3 @@
+[submodule "libkrw"]
+	path = libkrw
+	url = https://github.com/Siguza/libkrw
