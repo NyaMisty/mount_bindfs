@@ -1,4 +1,4 @@
-#include <sys/param.h>
+//#include <sys/param.h>
 #include <sys/mount.h>
 
 #include <err.h>
